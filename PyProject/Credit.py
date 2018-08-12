@@ -124,10 +124,6 @@ def main():
     print(x_test)
 
 
-
-
-
-
 # for SVM
 # model= svm.SVC(kernel='linear',C=1,gamma=1)
 # model.fit(X_train,Y_train)
